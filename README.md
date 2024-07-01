@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Komals-Code4All/Komals-Code4All** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Code 4 All 
 
-Here are some ideas to get you started:
+<p> Anyone can code!</p>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Love Programming
+
+<p>Programming is fun, if you start off on the right foot.</p>
+<p>A good place to start is first understanding what programming actually is without getting bogged down by learning any particular language.</p>
+
+<p>Some popular languages includes:</p>
+<ul><li>HTML, CSS</li><li>JavaScript</li><li>Python</li><li>Pascal</li><li>SQL</li></ul>
+
+<p>Wait. What?  Pascal? What's Pascal? You might well ask.</p>
+<p>I've put <strong>PASCAL</strong> in the list because it was designed specifically for teaching programming.</p>
+<p>Pascal is very easy to learn. It has simple syntax, and encourages you to write structured code from the beginning.</p>
+
+## Other fun stuff;
+
+<ul><li>Pascal, COBOL and other old languages</li><li>Fixing PCs</li><li>Historic Computing</li></ul>
+<ul><li>Star Trek rather than Star Wars</li><li>Marvel</li><li>Batman</li><li>not a Gamer</li></ul>
+
+
+If you are stuck with any HTML, CSS, JavaScript, Python and Web Dev drop me a line and I'll see what I can do.
