@@ -1,7 +1,7 @@
 
 # Code 4 All 
 
-<p> Anyone can code!</p>
+## Anyone can code! 
 <hr>
 
 <img src="bookshelf.jpg">
