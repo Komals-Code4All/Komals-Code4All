@@ -4,6 +4,8 @@
 <p> Anyone can code!</p>
 <hr>
 
+<img src="bookshelf.jpg">
+
 # Love Programming
 
 <p>Programming is fun, if you start off on the right foot.</p>
